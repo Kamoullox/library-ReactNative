@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Harry Potter: A l'école des sorciers",
+        "author": "J.K Rowling",
+        "description": "Le jour de ses onze ans, Harry Potter, un orphelin élevé par un oncle et une tante qui le détestent, voit son existence bouleversée. Un géant vient le chercher pour l'emmener à Poudlard, la célèbre école de sorcellerie où une place l'attend depuis toujours. Voler sur des balais, jeter des sorts, combattre des Trolls : Harry Potter se révèle un sorcier vraiment doué. Mais quel mystère entoure sa naissance et qui est l'effroyable V..., le mage dont personne n'ose prononcer le nom ?",
+        "image": "https://m.media-amazon.com/images/I/51F5NOrf+XL.jpg",
+        "id": 1
+    },
+    {
+        "title": "Harry Potter: Et la chambre des secrets",
+        "author": "J.K Rowling",
+        "description": "Une rentrée fracassante en voiture volante, une étrange malédiction qui s'abat sur les élèves, cette deuxième année à l'école des sorciers ne s'annonce pas de tout repos !        Entre les cours de potion magique, les matches de Quidditch et les combats de mauvais sorts, Harry Potter trouvera-t-il le temps de percer le mystère de la Chambre des Secrets ? Un livre magique pour sorciers confirmés.",
+        "image": "https://products-images.di-static.com/image/j-k-rowling-harry-potter-tome-2-harry-potter-et-la-chambre-des-secrets/9782070624539-475x500-1.jpg",
+        "id": 2
+    },
+    {
+        "title": "Harry Potter: Et le prisonnier d'Azkaban",
+        "author": "J.K Rowling",
+        "description": "Sirius Black, le dangereux criminel qui s'est échappé de la forteresse d'Azkaban, recherche Harry Potter. C'est donc sous bonne garde que l'apprenti sorcier fait sa troisième rentrée.        Au programme : des cours de divination, la fabrication d'une potion de ratatinage, le dressage des hyppogriffes... Mais Harry est-il vraiment à l'abris du danger qui le menace ? Un livre époustouflant qui vous emportera dans un tourbillon de surprises et d'émotion.",
+        "image": "https://ec56229aec51f1baff1d-185c3068e22352c56024573e929788ff.ssl.cf1.rackcdn.com/attachments/large/3/1/5/006143315.jpg",
+        "id": 3
+    }
+]
